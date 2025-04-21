@@ -5,7 +5,7 @@
 ```markdown
 🏏 IPL Web Analysis (2008–2024)
 
-Welcome to the **IPL Web Analysis** project – a dynamic and interactive Streamlit-based web app that provides deep insights into the Indian Premier League (IPL) matches from **2008 to 2024** using match and ball-by-ball datasets. This app explores performance metrics across teams, players, venues, and various match scenarios.
+Welcome to the IPL Web Analysis project – a dynamic and interactive Streamlit-based web app that provides deep insights into the Indian Premier League (IPL) matches from **2008 to 2024** using match and ball-by-ball datasets. This app explores performance metrics across teams, players, venues, and various match scenarios.
 
 ---
 
@@ -52,10 +52,10 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 
 🧠 Technologies Used
 
-- **Python** 🐍
-- **Streamlit** for UI
-- **Pandas** for data manipulation
-- **Jupyter/VSCode** for development
+- Python 🐍
+- Streamlit for UI
+- Pandas for data manipulation
+- Jupyter/VSCode for development
 
 ---
 
@@ -85,7 +85,7 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
    streamlit run app.py
    ```
 
-4. **Explore via browser:**  
+4. Explore via browser:
    Navigate to `http://localhost:8501`
 
 ---
@@ -100,7 +100,7 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 
 📄 License
 
-This project is licensed under the **MIT License** – feel free to use and adapt.
+This project is licensed under the MIT License – feel free to use and adapt.
 
 ---
 
