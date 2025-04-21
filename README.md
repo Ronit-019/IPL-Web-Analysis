@@ -59,9 +59,9 @@ Welcome to the IPL Web Analysis project – a dynamic and interactive Streamlit-
 
 ---
 
-📁 Dataset
+📁 Dataset : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
-- `matches.csv`: Match-level data
+- `matches.csv`: Match-level data 
 - `deliveries.csv`: Ball-by-ball data  
 📦 *Ensure these files are in your working directory.*
 
