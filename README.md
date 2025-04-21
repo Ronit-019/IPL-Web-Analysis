@@ -9,9 +9,9 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-### 📊 Team Analysis
+📊 Team Analysis
 - Team Tally
 - Playoff Appearances
 - Toss Analysis
@@ -20,7 +20,7 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 - Highest & Lowest Team Scores
 - Umpire Analysis
 
-### 🧍‍♂️ Player Analysis
+🧍‍♂️ Player Analysis
 - Top 10 Batsmen, Bowlers, and Wicket Keepers
 - Man of the Match Leaders
 - Most Catches
@@ -29,42 +29,37 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 - Highest Individual Scores
 - Best Bowling Figures
 
-### 🔍 Over-wise Analysis
+🔍 Over-wise Analysis
 - Runs Scored/Conceded by Teams and Players per Over
 - Boundary Frequencies
 - Wickets Lost and Taken by Over
 
-### 🏏 Batting Performance
+🏏 Batting Performance
 - Most Sixes and Fours
 - Partnership Analysis
 - Strike Rate and Average Breakdown
 
-### 🎯 Bowling Performance
+🎯 Bowling Performance
 - Economy and Strike Rate
 - Dismissal Types by Bowler and Batter
 - Extras (Byes, Wides, No Balls, etc.)
 
-### ⚔️ Head-to-Head Analysis
+⚔️ Head-to-Head Analysis
 - Team vs Team Comparison
 - Batsman vs Bowler | Bowler vs Batsman
 
-### 🥇 Chase vs Defend Analysis
-- Overall Trends
-- Venue and City Wise Comparison
-
 ---
 
-## 🧠 Technologies Used
+🧠 Technologies Used
 
 - **Python** 🐍
 - **Streamlit** for UI
 - **Pandas** for data manipulation
-- **Matplotlib & Seaborn** for visualizations (optional)
 - **Jupyter/VSCode** for development
 
 ---
 
-## 📁 Dataset
+📁 Dataset
 
 - `matches.csv`: Match-level data
 - `deliveries.csv`: Ball-by-ball data  
@@ -72,20 +67,20 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 
 ---
 
-## 🛠️ Setup Instructions
+🛠️ Setup Instructions
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ipl-web-analysis.git
    cd ipl-web-analysis
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Streamlit app:**
+3. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
@@ -95,7 +90,7 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 
 ---
 
-## 📌 Future Scope
+📌 Future Scope
 
 - Add prediction modules (Win Probability, Player of the Match)
 - Integrate player photos and highlights
@@ -103,14 +98,14 @@ Welcome to the **IPL Web Analysis** project – a dynamic and interactive Stream
 
 ---
 
-## 📄 License
+📄 License
 
 This project is licensed under the **MIT License** – feel free to use and adapt.
 
 ---
 
-⭐ **If you like this project, give it a star!**  
-📢 *Feedback and contributions are always welcome!*
+⭐ If you like this project, give it a star!
+📢 Feedback and contributions are always welcome!
 ```
 
 ---
