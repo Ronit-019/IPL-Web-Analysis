@@ -3,7 +3,7 @@
 ---
 
 ```markdown
-# 🏏 IPL Web Analysis (2008–2024)
+🏏 IPL Web Analysis (2008–2024)
 
 Welcome to the **IPL Web Analysis** project – a dynamic and interactive Streamlit-based web app that provides deep insights into the Indian Premier League (IPL) matches from **2008 to 2024** using match and ball-by-ball datasets. This app explores performance metrics across teams, players, venues, and various match scenarios.
 
